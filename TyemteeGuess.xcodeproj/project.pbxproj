@@ -11,11 +11,11 @@
 		2872E49323F3969B0069CBED /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2872E49223F3969B0069CBED /* SceneDelegate.swift */; };
 		2872E49623F3969B0069CBED /* TyemteeGuess.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2872E49423F3969B0069CBED /* TyemteeGuess.xcdatamodeld */; };
 		2872E49823F3969B0069CBED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2872E49723F3969B0069CBED /* ContentView.swift */; };
-		2872E49A23F3969C0069CBED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2872E49923F3969C0069CBED /* Assets.xcassets */; };
 		2872E49D23F3969C0069CBED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2872E49C23F3969C0069CBED /* Preview Assets.xcassets */; };
 		2872E4A023F3969C0069CBED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2872E49E23F3969C0069CBED /* LaunchScreen.storyboard */; };
 		2872E4AB23F3969C0069CBED /* TyemteeGuessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2872E4AA23F3969C0069CBED /* TyemteeGuessTests.swift */; };
 		2872E4B623F3969C0069CBED /* TyemteeGuessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2872E4B523F3969C0069CBED /* TyemteeGuessUITests.swift */; };
+		2872E4C423F396D40069CBED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2872E4C323F396D40069CBED /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,6 @@
 		2872E49223F3969B0069CBED /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		2872E49523F3969B0069CBED /* TyemteeGuess.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TyemteeGuess.xcdatamodel; sourceTree = "<group>"; };
 		2872E49723F3969B0069CBED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		2872E49923F3969C0069CBED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2872E49C23F3969C0069CBED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		2872E49F23F3969C0069CBED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2872E4A123F3969C0069CBED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -51,6 +50,7 @@
 		2872E4B123F3969C0069CBED /* TyemteeGuessUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TyemteeGuessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2872E4B523F3969C0069CBED /* TyemteeGuessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TyemteeGuessUITests.swift; sourceTree = "<group>"; };
 		2872E4B723F3969C0069CBED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2872E4C323F396D40069CBED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,8 +104,8 @@
 				2872E49023F3969B0069CBED /* AppDelegate.swift */,
 				2872E49223F3969B0069CBED /* SceneDelegate.swift */,
 				2872E49723F3969B0069CBED /* ContentView.swift */,
-				2872E49923F3969C0069CBED /* Assets.xcassets */,
 				2872E49E23F3969C0069CBED /* LaunchScreen.storyboard */,
+				2872E4C323F396D40069CBED /* Assets.xcassets */,
 				2872E4A123F3969C0069CBED /* Info.plist */,
 				2872E49423F3969B0069CBED /* TyemteeGuess.xcdatamodeld */,
 				2872E49B23F3969C0069CBED /* Preview Content */,
@@ -244,8 +244,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2872E4A023F3969C0069CBED /* LaunchScreen.storyboard in Resources */,
+				2872E4C423F396D40069CBED /* Assets.xcassets in Resources */,
 				2872E49D23F3969C0069CBED /* Preview Assets.xcassets in Resources */,
-				2872E49A23F3969C0069CBED /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
